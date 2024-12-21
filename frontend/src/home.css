@@ -1,0 +1,12 @@
+.MuiCardContent-root:last-child {
+    background-color: rgba(255, 255, 255, 0.284) !important;
+}
+.MuiDropzoneArea-text, .MuiDropzoneArea-icon{
+    color: rgb(0, 60, 14) !important;
+}
+.makeStyles-tableCell1-18{
+    color: rgb(33, 126, 44) !important;
+}
+.MuiGrid-spacing-xs-2{
+    max-width: 100% !important;
+}
